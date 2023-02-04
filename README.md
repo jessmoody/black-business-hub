@@ -1,1 +1,1 @@
-# black-business-hub
+# Black Business Hub
