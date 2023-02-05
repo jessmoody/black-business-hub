@@ -1,0 +1,354 @@
+/* screen - add-business-form-page */
+
+.add-business-form-page {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 4267px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.add-business-form-page .overlap-group2 {
+  height: 693px;
+  margin-left: 3.0px;
+  position: relative;
+  width: 1443px;
+}
+
+.add-business-form-page .rectangle-41 {
+  height: 693px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.add-business-form-page .rectangle-43 {
+  background-color: #32746d66;
+  height: 693px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.add-business-form-page .material-symbolsarrow-back-ios-new {
+  align-self: flex-start;
+  height: 68px;
+  margin-left: 81px;
+  margin-top: 69px;
+  width: 68px;
+}
+
+.add-business-form-page .title {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5.0px;
+  margin-top: 80px;
+  min-height: 82px;
+  text-align: center;
+  width: 807px;
+}
+
+.add-business-form-page .flex-row {
+  gap: 162px;
+  height: 438px;
+  margin-left: 118.0px;
+  margin-top: 209px;
+  min-width: 1170px;
+}
+
+.add-business-form-page .flex-col {
+  flex-direction: column;
+  min-height: 438px;
+  width: 437px;
+}
+
+.add-business-form-page .st-name {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .rectangle-2 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 100px;
+  margin-top: 1px;
+  width: 437px;
+}
+
+.add-business-form-page .business-name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 144px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 438px;
+  width: 571px;
+}
+
+.add-business-form-page .what-category-best-r {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 144px;
+  min-height: 46px;
+  width: 571px;
+}
+
+.add-business-form-page .overlap-group {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 115px;
+  height: 100px;
+  margin-top: 1px;
+  min-width: 514px;
+  padding: 17px 52px;
+}
+
+.add-business-form-page .select-category {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 7.0px;
+  min-height: 31px;
+  text-align: center;
+  width: 230px;
+}
+
+.add-business-form-page .material-symbolskeyb {
+  height: 64px;
+  width: 64px;
+}
+
+.add-business-form-page .write-a-brief-descri {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 148px;
+  min-height: 46px;
+  width: 482px;
+}
+
+.add-business-form-page .rectangle-25 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 274px;
+  margin-left: 6.0px;
+  margin-top: 45px;
+  width: 940px;
+}
+
+.add-business-form-page .address {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 607.0px;
+  margin-top: 102px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .place {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 318px;
+  margin-top: 18px;
+  min-height: 28px;
+  width: 146px;
+}
+
+.add-business-form-page .rectangle-26 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 75px;
+  margin-right: 83.0px;
+  margin-top: 19px;
+  width: 721px;
+}
+
+.add-business-form-page .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 343px;
+  height: 28px;
+  margin-right: 175.0px;
+  margin-top: 90px;
+  min-width: 635px;
+}
+
+.add-business-form-page .flex-row-item {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 28px;
+  width: 146px;
+}
+
+.add-business-form-page .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 166px;
+  margin-right: 52.0px;
+  margin-top: 21px;
+  min-width: 752px;
+}
+
+.add-business-form-page .rectangle-27 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  width: 320px;
+}
+
+.add-business-form-page .rectangle-28 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  width: 266px;
+}
+
+.add-business-form-page .phone-number {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 309px;
+  margin-top: 127px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .rectangle-29 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  margin-right: 428.0px;
+  margin-top: 19px;
+  width: 388px;
+}
+
+.add-business-form-page .email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 619.0px;
+  margin-top: 78px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .rectangle-30 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  margin-right: 264.0px;
+  margin-top: 19px;
+  width: 546px;
+}
+
+.add-business-form-page .website {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 607.0px;
+  margin-top: 62px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .rectangle-31 {
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  margin-right: 258.0px;
+  margin-top: 34px;
+  width: 546px;
+}
+
+.add-business-form-page .social-media {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 607.0px;
+  margin-top: 107px;
+  min-height: 46px;
+  width: 197px;
+}
+
+.add-business-form-page .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 141px;
+  margin-left: 76.0px;
+  margin-top: 50px;
+  min-width: 874px;
+}
+
+.add-business-form-page .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 66px;
+  height: 78px;
+  justify-content: flex-end;
+  min-width: 273px;
+  padding: 6px 23px;
+}
+
+.add-business-form-page .select {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 5.0px;
+  min-height: 31px;
+  width: 80px;
+}
+
+.add-business-form-page .rectangle-33 {
+  background-color: #d9d9d938;
+  border: 1px solid;
+  border-color: var(--black);
+  height: 78px;
+  width: 460px;
+}
+
+.add-business-form-page .donate-btn {
+  align-items: flex-start;
+  background-color: var(--oracle);
+  border-radius: 8px;
+  display: flex;
+  height: 61px;
+  margin-right: 41.0px;
+  margin-top: 247px;
+  min-width: 171px;
+  padding: 18px 48px;
+}
+
+.add-business-form-page .flex {
+  align-items: flex-start;
+  display: flex;
+}

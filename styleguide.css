@@ -1,0 +1,104 @@
+:root { 
+  --alto: #d9d9d942;
+  --black: #000000;
+  --eden: #104f55;
+  --oracle: #32746d;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+  --font-size-xxxxl: 40px;
+  --font-size-xxxxxl: 48px;
+ 
+  --font-family-merriweather: "Merriweather", Helvetica;
+}
+.merriweather-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-normal-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.merriweather-bold-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.merriweather-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}

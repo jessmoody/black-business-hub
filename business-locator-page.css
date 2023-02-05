@@ -1,0 +1,270 @@
+/* screen - business-locator-page */
+
+.business-locator-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  width: 1440px;
+}
+
+.business-locator-page .overlap-group {
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.business-locator-page .rectangle-19 {
+  height: 166px;
+  width: 1440px;
+}
+
+.business-locator-page .rectangle-16 {
+  height: 1024px;
+  width: 324px;
+}
+
+.business-locator-page .screen-shot-2023-02-04-at-637-1 {
+  height: 863px;
+  left: 324px;
+  mix-blend-mode: luminosity;
+  position: absolute;
+  top: 161px;
+  width: 1116px;
+}
+
+.business-locator-page .filters {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: 27px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 160px;
+  width: 104px;
+}
+
+.business-locator-page .span {
+  font-size: var(--font-size-xxxl);
+}
+
+.business-locator-page .categories {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 241px;
+  width: 131px;
+}
+
+.business-locator-page .health-fitness {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 294px;
+  width: 141px;
+}
+
+.business-locator-page .place {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 345px;
+  width: 141px;
+}
+
+.business-locator-page .retail {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 396px;
+  width: 141px;
+}
+
+.business-locator-page .restuarants {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 447px;
+  width: 141px;
+}
+
+.business-locator-page .place-1 {
+  left: 46px;
+  top: 588px;
+  width: 100px;
+}
+
+.business-locator-page .place-2 {
+  left: 46px;
+  top: 649px;
+  width: 78px;
+}
+
+.business-locator-page .place-3 {
+  left: 46px;
+  top: 706px;
+  width: 121px;
+}
+
+.business-locator-page .place-4 {
+  left: 46px;
+  top: 763px;
+  width: 85px;
+}
+
+.business-locator-page .place-5 {
+  left: 46px;
+  top: 820px;
+  width: 78px;
+}
+
+.business-locator-page .name {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 879px;
+  width: 60px;
+}
+
+.business-locator-page .place-6 {
+  left: 46px;
+  top: 936px;
+  width: 151px;
+}
+
+.business-locator-page .location {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 528px;
+  width: 131px;
+}
+
+.business-locator-page .find-a-business {
+  left: 747px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 162px;
+}
+
+.business-locator-page .place-7 {
+  cursor: pointer;
+  left: 604px;
+  top: 71px;
+  width: 61px;
+}
+
+.business-locator-page .add-business {
+  left: 991px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 148px;
+}
+
+.business-locator-page .mdicheckbox-marked {
+  height: 24px;
+  left: 185px;
+  position: absolute;
+  top: 589px;
+  width: 24px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline {
+  height: 24px;
+  left: 185px;
+  position: absolute;
+  top: 647px;
+  width: 24px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-1 {
+  top: 704px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-2 {
+  top: 761px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-3 {
+  top: 818px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-4 {
+  top: 876px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-5 {
+  top: 934px;
+}
+
+.business-locator-page .vector {
+  height: 78px;
+  left: 46px;
+  position: absolute;
+  top: 34px;
+  width: 80px;
+}
+
+.business-locator-page .title {
+  left: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 68px;
+  width: 311px;
+}
+
+.business-locator-page .donate-btn {
+  align-items: flex-start;
+  background-color: var(--oracle);
+  border-radius: 8px;
+  display: flex;
+  height: 61px;
+  left: 1221px;
+  min-width: 171px;
+  padding: 18px 48px;
+  position: absolute;
+  top: 56px;
+}
+
+.business-locator-page .icbaseline-filter-alt {
+  height: 32px;
+  left: 141px;
+  position: absolute;
+  top: 166px;
+  width: 32px;
+}
+
+.business-locator-page .mdicheckbox-blank-outline-6 {
+  height: 24px;
+  left: 185px;
+  position: absolute;
+  width: 24px;
+}
+
+.business-locator-page .place-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.business-locator-page .rectangle {
+  background-color: var(--eden);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
